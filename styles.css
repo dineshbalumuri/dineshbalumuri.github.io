@@ -1,6 +1,6 @@
 
 .mydiv{
-    text-align: center;
+    width: 450px;
 }
 h1{
     font-family: 'Courier New', monospace;
@@ -38,7 +38,7 @@ body{
     width: 65px;
     margin-left: 45px;
     margin-bottom: 10px;
-    transition: width 2s;
+    background: none;
  }
     
 .moto{
@@ -47,5 +47,5 @@ body{
 .div2{
     min-width: 500px;
     max-width: 600px;
-    margin-left: 50px;
+    
 }
